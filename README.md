@@ -1,6 +1,6 @@
 # Focus Mode
 
-Focus Mode is a simple React application that helps you manage your work and break intervals using a timer. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Focus Mode is a simple React application that helps you manage your work and break intervals using a timer.
 
 ## Features
 
@@ -13,7 +13,7 @@ Check out the live project [here](https://focus-mode-by-aryan.netlify.app/).
 
 ## Screenshots
 
-![Focus Mode Screenshot](public/screenshot.png)
+![Focus Mode Screenshot](public/Screenshot.png)
 
 ## Available Scripts
 
